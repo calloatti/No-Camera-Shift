@@ -1,14 +1,14 @@
-{
+﻿{
   "Name": "No Camera Shift",
   "Version": "1.0.0",
   "Id": "Calloatti.NoCameraShift",
   "MinimumGameVersion": "1.0.12.5",
   "Description": "Prevents the camera from panning horizontally when opening or closing Settlement UI panels.",
-    "RequiredMods": [
-        {
-            "Id": "Harmony",
-            "MinVersion": "2.4.1"
-        }
-    ],
-    "OptionalMods": []
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinVersion": "2.4.1"
+    }
+  ],
+  "OptionalMods": []
 }
