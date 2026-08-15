@@ -1,0 +1,1 @@
+Prevents the camera from panning horizontally when opening or closing Settlement UI panels.
