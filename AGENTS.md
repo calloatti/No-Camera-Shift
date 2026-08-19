@@ -18,3 +18,8 @@ Prevents the camera from shifting horizontally when selecting buildings or entit
 |---|---|
 | `ModStarter.cs` | Entry point — `IModStarter` |
 | `CameraHorizontalShifterPatch.cs` | Harmony patch on camera shift behavior |
+
+## Hard Rule
+DO NOT EVER TOUCH THE DEPLOY FOLDER.
+
+BUILD DOES EVERYTHING, NEVER EVER MESS WITH THE DEPLOY PROCESS.
